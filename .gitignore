@@ -1,3 +1,14 @@
+# folders
+research/object_detection/protos/
+research/object_detection/test_images/
+
+# model files
+*.pb
+*.pbtxt
+*.ckpt.index
+*.ckpt.meta
+*.ckpt.data*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
